@@ -13,7 +13,7 @@ class Root_system_func():
         conn = pymysql.connect(
             host='127.0.0.1',
             user='root',
-            passwd='H1394830398h',
+            passwd='xxx',
             port=3306,
             db='library',
             charset='utf8'
@@ -46,7 +46,7 @@ class Root_system_func():
         conn = pymysql.connect(
             host='127.0.0.1',
             user='root',
-            passwd='H1394830398h',
+            passwd='xxx',
             port=3306,
             db='library',
             charset='utf8'
@@ -91,7 +91,7 @@ class System_func():
         conn = pymysql.connect(
             host='127.0.0.1',
             user='root',
-            passwd='H1394830398h',
+            passwd='xxx',
             port=3306,
             db='library',
             charset='utf8'
@@ -125,7 +125,7 @@ class System_func():
         conn = pymysql.connect(
             host='127.0.0.1',
             user='root',
-            passwd='H1394830398h',
+            passwd='xxx',
             port=3306,
             db='library',
             charset='utf8'
