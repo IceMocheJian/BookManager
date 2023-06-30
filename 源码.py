@@ -4,7 +4,7 @@ import ttkbootstrap as ttk
 from ttkbootstrap import Style
 import pymysql
 
-class Root_system_func():
+class Root_system_func(): 
 
     def login(self): # 登录
         username = username_input.get()
